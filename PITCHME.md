@@ -11,10 +11,10 @@
 ### ３枚目のスライド
 
 - Java
-- JavaScript
-- Kotlin
-- Go
-- Scala
+- JavaScript |
+- Kotlin |
+- Go |
+- Scala |
 
 ---
 
